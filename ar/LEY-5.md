@@ -1,54 +1,48 @@
 ---
-title: "SEGURIDAD NACIONAL"
+title: "REGIMEN ELECTORAL"
 identifier: "LEY-5"
 country: "ar"
 rank: "ley"
-publication_date: "1854-11-21"
-last_updated: "1854-11-21"
+publication_date: "1862-06-12"
+last_updated: "1862-06-12"
 status: "in_force"
-source: "http://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280913/norma.htm"
+source: "http://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280697/norma.htm"
 department: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-infoleg_id: "280913"
-enactment_date: "1854-11-21"
-texto_resumido: "AUTORIZA A TOMAR MEDIDAS PARA GARANTIZAR LA SEGURIDAD E INTEGRIDAD DE LA CONFEDERACION."
-observaciones: "LA NUMERACION DE LA PRESENTE LEY CORRESPONDE A LAS LEYES NUMEROS 1 A 292 SANCIONADAS POR EL HONORABLE CONGRESO NACIONAL INSTALADO EN LA CIUDAD DE PARANA, CAPITAL PROVISORIA DE LA CONFEDERACION DURANTE LOS AÑOS 1854 A 1861, SEGUN CLASIFICACION INDICADA EN LAS COMPILACIONES DE LEYES NACIONALES REALIZADAS POR AUGUSTO DA ROCHA Y JOSE GIUSTINIAN. PUBLICADA EN 'REGISTRO NACIONAL DE LA REPUBLICA ARGENTINA REGISTRO NACIONAL TOMO 1852-1856', PAGINA 168."
-original_text_url: "http://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280913/norma.htm"
+infoleg_id: "280697"
+enactment_date: "1862-06-12"
+texto_resumido: "AUTORIZACION AL PODER EJECUTIVO NACIONAL PARA ACORTAR TERMINO ESTABLECIDO ELECCIONES A PRACTICAR EN LA PROVINCIA DE CORDOBA."
+observaciones: "LA NUMERACION DE LA PRESENTE LEY CORRESPONDE A LAS LEYES NUMEROS 1 A 10366 SANCIONADAS POR EL HONORABLE CONGRESO NACIONAL EN LA ACTUAL CAPITAL FEDERAL DE BUENOS AIRES DURANTE LOS PERIODOS LEGISLATIVOS DE 1862 A 1917. LA PRESENTE NORMA SE ENCUENTRA PUBLICADA EN EL REGISTRO NACIONAL TOMO  IV  1857-1862, PAGINA  448."
+original_text_url: "http://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280697/norma.htm"
 times_modified: "1"
 reform_quality: "partial"
 reforms_skipped: "1"
 ---
-# SEGURIDAD NACIONAL
+# REGIMEN ELECTORAL
 
-**Ley autorizando al Poder Ejecutivo para hacer la paz ó la guerra con el Gobierno de Buenos Aires.**
+**Ley N° 5
 
-Ley Nº 5
+Ley autorizando al Encargado del Poder Ejecutivo Nacional para acortar
 
-El Senado y Cámara de Diputados de la Confederacion Argentina, reunidos en Congreso.
+el término establecido el de 4 de Julio de 1859 para las elecciones de
 
-Atendiendo á la situacion hostil que ha tomado el gobierno de la provincia vecina de Buenos Aires, aglomerando fuerzas sobre nuestras fronteras;
+la Provincia de Córdoba.**
 
-Sancionan con fuerza de
+El Senado y Cámara de Diputados de la Nacion Argentina, reunido en Congreso sancionan con fuerza de
 
-Ley:
+ley
 
-###### Art. 1° Se autoriza al Poder Ejecutivo para consultar la seguridad é integridad del territorio de la Confederacion, haciendo la paz ó la guerra, segun lo aconsejaren las circunstancias, y al efecto podrá usar de todas las atribuciones para cuyo ejercicio necesita autorizacion del Congreso.
+###### Art. 1° Autorizase al Encargado del Poder Ejecutivo Nacional, para
 
-###### Art. 2° Queda autorizado para hacer los gastos necesarios en este sagrado objeto.
+acortar el término establecido en el artículo 23 de la ley de 4 de
 
-###### Art. 3° Se permite al Presidente de la Confederacion ausentarse del territorio de la capital para colocarse á la cabeza del ejército nacional, si lo estimare conveniente, dejando al gobierno provisto con arreglo á la Constítucion.
+Julio de 1859, para las elecciones mandadas practicar en la Provincia
 
-###### Art. 4° Comuníquese al Poder Ejecutivo á los efectos consiguientes.
+de Córdoba.
 
-Sala de sesiones del Senado, en el Paraná, capital provisoria de la Confederacion Argentina, á veinte y uno de Noviembre de mil ochocientos cincuenta y cuatro.
+###### Art. 2° Comuníquese al Encargado del Poder Ejecutivo Nacional.
 
-SALVADOR MARIA DEL CARRIL.
+Dada en la Sala de sesiones del Congreso, en Buenos Aires, á los doce
 
-Cárlos M. Saravia, Secretario
+días del mes de Julio del año del Señor de mil ochocientos sesenta y
 
-Ministerio del Interior
-
-Paraná, Noviembre 23 de 1854.
-
-Avísese recibo, publiquese y dése al Registro Nacional
-
-URQUIZA.
+dos.- MARCOS PAZ. - *Cárlos M. Saravia*. - Secretario del Senado. - PASTOR OBLIGADO. - *Ramon B. Muñiz*. - Secretario de la Cámara de Diputados.
